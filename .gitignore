@@ -1,0 +1,19 @@
+/mybatis-generator/src/resources
+/mybatis-generator/src/java
+/target
+/logs
+/log
+/build
+/*/target
+/*/*.iml
+# Editor directories and files
+*.iml
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+
+
